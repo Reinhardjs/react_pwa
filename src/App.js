@@ -13,7 +13,7 @@ const Template = ({title}) => (
     <div>
         <NavBar/>
         <p className="page-info">
-            This is the {title} page (edited).
+            This is the {title} page (edited 2).
         </p>
     </div>
 );

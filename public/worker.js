@@ -1,4 +1,4 @@
-// v 04/09/2019 nice v2123123ssss
+// v 04/09/2019 nice v2123123ssss123
 // Flag for enabling cache in production
 var doCache = true;
 var CACHE_NAME = 'pwa-app-cache';
